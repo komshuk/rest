@@ -29,7 +29,11 @@
         "default": 0
       },
       "currency": {
+<<<<<<< HEAD
         "enum": ["USD", "RUB"]
+=======
+        "enum": ["USD", "RUR"]
+>>>>>>> origin/master
       }
     }
   }
